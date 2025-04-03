@@ -1,1 +1,1 @@
-# landing-page-teste-db
+# Landing page teste para um banco de dados
